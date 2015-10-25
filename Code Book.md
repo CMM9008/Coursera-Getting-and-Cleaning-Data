@@ -2,11 +2,11 @@
 
 ## variables
 
-### subject
+#### subject
 
 experiment participant (id)
 
-### activity
+#### activity
 
 | id |              name |
 |---:|:-----------------:|
@@ -17,7 +17,7 @@ experiment participant (id)
 |  5|           STANDING|
 |  6|            LAYING|
 
-### features
+#### features
 
 Column numbers are extracted from the original data file, `UCI HAR Dataset/features.txt`
 
